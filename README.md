@@ -4,19 +4,22 @@ Data Analyst at RNF Technologies in Noida, India. I build dashboards and data to
 
 **Tools:** SQL (MySQL, PostgreSQL) · Python · Google Apps Script · Looker Studio · Power BI · HubSpot, Stripe and Google APIs · n8n
 
-**My repos are in three groups.** Each repo name starts with its group, so you can open one group at a time:
-**[RNF: my work](https://github.com/manasmehrotra13?tab=repositories&q=RNF&sort=name)** · **[Autonmis: my internship](https://github.com/manasmehrotra13?tab=repositories&q=Autonmis&sort=name)** · **[Practice: guided practice projects](https://github.com/manasmehrotra13?tab=repositories&q=Practice&sort=name)**
+**My repos are in four groups.** Each repo name starts with its group, so you can open one group at a time:
+**[RNF: my work](https://github.com/manasmehrotra13?tab=repositories&q=RNF&sort=name)** · **[Autonmis: my internship](https://github.com/manasmehrotra13?tab=repositories&q=Autonmis&sort=name)** · **[Practice: guided practice projects](https://github.com/manasmehrotra13?tab=repositories&q=Practice&sort=name)** · **[Certification: my courses](https://github.com/manasmehrotra13/Certification-Courses)**
 
 ## 1. Work: Data Analyst at RNF Technologies (June 2025 – now)
 
 I can't share company code or data, so I wrote short case studies instead: **[RNF-Work-Case-Studies](https://github.com/manasmehrotra13/RNF-Work-Case-Studies)**.
 
-- **Payments and team dashboard:** one web app, used by about 65 people, that brings Stripe, PayPal and HubSpot data into MySQL. Payments, refunds, retention, sales and month-end numbers in one place.
-- **Call analytics:** daily call and meeting numbers for 60+ sales and project-management staff, from Google Meet, RingCentral and HubSpot.
-- **Project-manager recommendation:** ranks project managers for each new client from past results, with a fair-share rule so work is spread evenly.
-- **Contest dashboards:** live TV leaderboards for sales and project-manager contests, with clear and fair scoring rules.
-- **Email marketing data tool:** 200,000+ contacts across three regions, with duplicate checks and daily send limits.
-- **Account-recovery email analysis (Python):** read 1,195 support emails with PDF text extraction, OCR and regular expressions to map the recovery process.
+- **The Scale Agency Dashboard (my latest work):** one web app with 35+ tabs, used by about 65 people, that brings Stripe, PayPal and HubSpot data into MySQL. Payments, refunds, retention, sales and month-end numbers in one place.
+- **PM Recommendations:** ranks project managers for each new client from past results, with a fair-share rule so work is spread evenly.
+- **Contest Dashboards:** live TV leaderboards for the Singapore, Dubai and ROW contests, with clear and fair scoring rules.
+- **Client Analytics Dashboard:** 43 KPIs from Google Analytics, Search Console and LinkedIn outreach, in one place for a client.
+- **SEO Automation:** AI agents for SEO work: a working first agent and a proposal.
+- **Video Meet Reconciliation System:** daily call and meeting numbers for 60+ sales and project-management staff, from Google Meet, RingCentral and HubSpot.
+- **Email Marketing Dashboard:** 200,000+ contacts across three regions, with duplicate checks and daily send limits.
+- **Lead Assignment:** new leads checked, shared fairly and set up in HubSpot, from fully manual to fully automatic.
+- **LinkedIn Support Email Analysis (Python):** read 1,195 support emails with PDF text extraction, OCR and regular expressions to map the recovery process.
 
 ## 2. Internship: Data Analyst Intern at Autonmis (Dec 2024 – May 2025)
 
@@ -39,6 +42,14 @@ Projects I built by following YouTube tutorials, to learn the tools. Each README
 | [Practice-Superstore-Sales-Analysis](https://github.com/manasmehrotra13/Practice-Superstore-Sales-Analysis) | Power BI | A Superstore sales dashboard with DAX measures |
 | [Practice-Vrinda-Store-Sales-Analysis](https://github.com/manasmehrotra13/Practice-Vrinda-Store-Sales-Analysis) | Excel | A yearly sales report with pivot tables and a dashboard |
 | [Practice-Coffee-Shop-Sales-Analysis](https://github.com/manasmehrotra13/Practice-Coffee-Shop-Sales-Analysis) | Excel, Power Query | A sales dashboard by day, hour, store and product |
+
+## 4. Certification courses
+
+All in one repo: **[Certification-Courses](https://github.com/manasmehrotra13/Certification-Courses)**.
+
+- **Tata:** GenAI Powered Data Analytics job simulation (Forage, Apr 2026)
+- **Accenture:** Data Analytics and Visualization job simulation (Forage, Nov 2024)
+- **Google:** "Foundations: Data, Data, Everywhere", Course 1 of the Data Analytics certificate (Coursera, Oct 2024)
 
 ## Contact
 
