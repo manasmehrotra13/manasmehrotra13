@@ -15,7 +15,6 @@ I can't share company code or data, so I wrote short case studies instead: **[RN
 - **PM Recommendations:** ranks project managers for each new client from past results, with a fair-share rule so work is spread evenly.
 - **Contest Dashboards:** live TV leaderboards for the Singapore, Dubai and ROW contests, with clear and fair scoring rules.
 - **Client Analytics Dashboard:** 43 KPIs from Google Analytics, Search Console and LinkedIn outreach, in one place for a client.
-- **SEO Automation:** AI agents for SEO work: a working first agent and a proposal.
 - **Video Meet Reconciliation System:** daily call and meeting numbers for 60+ sales and project-management staff, from Google Meet, RingCentral and HubSpot.
 - **Email Marketing Dashboard:** 200,000+ contacts across three regions, with duplicate checks and daily send limits.
 - **Lead Assignment:** new leads checked, shared fairly and set up in HubSpot, from fully manual to fully automatic.
